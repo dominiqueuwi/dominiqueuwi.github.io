@@ -6,7 +6,7 @@ font-family: 'Raleway', sans-serif;
 
 .header { 
 	padding: 60px;
-	text-align: center;
+	text-align: top;
 	background-color: #001f3f;
 	color: #001f3f;
 	font-size: 30px;
@@ -17,6 +17,7 @@ font-family: 'Raleway', sans-serif;
 .sidebar { 
 height:100%;
 width:260px;
+text-align:left;
 position:fixed;
 z-index: 1;
 top: 0;
@@ -29,6 +30,7 @@ padding-left: 50px;
 .rightbar {
 height:100%;
 width:80%;
+text-align:right;
 position:fixed;
 top:0;
 background-color: black;

@@ -17,7 +17,7 @@ font-family: 'Raleway', sans-serif;
 .sidebar { 
 height:100%;
 width:260px;
-postion:fixed;
+position:fixed;
 z-index: 1;
 top: 0;
 left:0;
@@ -29,7 +29,9 @@ padding-left: 50px;
 .rightbar {
 height:100%;
 width:80%;
-background-color: white;
+position:fixed;
+top:0;
+background-color: black;
 right: 0;
 padding-right:50px;
 

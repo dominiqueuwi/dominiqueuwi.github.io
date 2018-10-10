@@ -8,25 +8,12 @@ font-family: 'Raleway', sans-serif;
 	padding: 60px;
 	text-align: center;
 	background-color: green;
-	color: yellow;
+	color: #001f3f;
 	font-size: 30px;
+	font-color: #7FDBFF;
 }
 
-.grid {  
-	border: 2px blue solid;
-	width: 400px;
-	height: 500px;
-	display: grid;
-.box { 
-background-color: beige;
-color: black;
-border-radius: 5px;
-border: 2px; 
-	}
-.box a { 
-float: left;
-color-background: blue;
- }
+
 .sidebar { 
 height:100%;
 width:200px;
@@ -34,19 +21,19 @@ postion:fixed;
 z-index: 1;
 top: 0;
 left:0;
-background-color: black;
+background-color: #DDDDDD;
 overflow-x: hidden;
 padding-top: 20px;
 padding-left: 50px;
 
  }
-h1 {  color: white;
+h1 {  color: #7FDBFF;
 font-size: 42px;
 font-weight: 600;
 text-align: center;
 }
 
-h4 {  color: white;
+h4 {  color: #7FDBFF;
 font-size: 42px;
 font-weight: 600;
 text-align: center;

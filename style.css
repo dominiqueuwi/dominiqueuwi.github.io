@@ -3,28 +3,25 @@ body {
 background-color: yellow;
 font-family: 'Raleway', sans-serif; 
 }
-#banner { 
-	background-color: black; 
-	background-size: cover;
-	height: 500px;
-	width: 100%;  
-}
+
 .header { 
 	padding: 60px;
 	text-align: center;
-	background: green;
+	background-color: green;
 	color: yellow;
 	font-size: 30px;
 }
-
-#banner .content h1 { 
-border: 3px solid white; 
-position: relative;
-top: 50px;
-width: 400px;
-margin: 0 auto;
-}
-
+.grid {  
+	border: 2px blue solid;
+	width: 400px;
+	height: 500px;
+	display: grid;
+.box { 
+background-color: beige;
+color: black;
+border-radius: 5px;
+border: 2px; 
+	}
 
 h1 {  color: white;
 font-size: 42px;

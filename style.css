@@ -28,8 +28,8 @@ padding-top: 20px;
 padding-left: 50px;
 }
 .rightbar {
-height:100%;
-width:80%;
+	float:right;
+width:30%;
 text-align:right;
 position:fixed;
 top:0;

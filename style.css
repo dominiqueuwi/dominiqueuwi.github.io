@@ -1,13 +1,13 @@
 style.css
 body { 
-background-color: yellow;
+background-color:#7FDBFF ;
 font-family: 'Raleway', sans-serif; 
 }
 
 .header { 
 	padding: 60px;
 	text-align: center;
-	background-color: green;
+	background-color: #001f3f;
 	color: #001f3f;
 	font-size: 30px;
 	font-color: #7FDBFF;
@@ -16,7 +16,7 @@ font-family: 'Raleway', sans-serif;
 
 .sidebar { 
 height:100%;
-width:200px;
+width:260px;
 postion:fixed;
 z-index: 1;
 top: 0;
@@ -27,6 +27,9 @@ padding-top: 20px;
 padding-left: 50px;
 
  }
+ img { 
+ 	border-radius: 50%;
+ 	 }
 h1 {  color: #7FDBFF;
 font-size: 42px;
 font-weight: 600;
@@ -37,3 +40,4 @@ h4 {  color: #7FDBFF;
 font-size: 42px;
 font-weight: 600;
 text-align: center;
+

@@ -1,55 +1,11 @@
 style.css
-/*body { 
+body { 
 background-color:#7FDBFF ;
 font-family: 'Raleway', sans-serif; 
 }
-
-.header { 
-	padding: 60px;
-	text-align: top;
-	background-color: #001f3f;
-	color: #001f3f;
-	font-size: 30px;
-	font-color: #7FDBFF;
+.grid-container { 
+display: grid;
+grid-template-columns: 150px 150px 150px;
+grid-template-rows: 150px 150px;
+grid-gap:20px; 
 }
-
-
-.sidebar { 
-height:100%;
-width:260px;
-text-align:left;
-position:fixed;
-z-index: 1;
-top: 0;
-left:0;
-background-color: #DDDDDD;
-overflow-x: hidden;
-padding-top: 20px;
-padding-left: 50px;
-}
-.rightbar {
-	float:right;
-width:30%;
-text-align:right;
-position:fixed;
-top:0;
-background-color: black;
-right: 0;
-padding-right:50px;
-
-}
-
- img { 
- 	border-radius: 50%;
- 	 }
-h1 {  color: #7FDBFF;
-font-size: 42px;
-font-weight: 600;
-text-align: center;
-}
-
-h4 {  color: #7FDBFF;
-font-size: 42px;
-font-weight: 300;
-text-align: center;
-*/

@@ -21,6 +21,15 @@ font-size: 1em;
 font-weight: italic; 
 text-align: center;	
 }
+.bio {
+	 
+	align-items: right;
+	align-content: top;
+	top: 0px;
+	right: 0px;
+	position: relative;
+
+}
 .sidenav { 
 	height: auto;
 	width: 160px;
@@ -38,14 +47,6 @@ text-align: center;
 	color: #818181;
 	display: block;
  }
-.bio {
-	 
-	align-items: right;
-	align-content: top;
-	top: 0px;
-	right: 0px;
-	position: relative;
 
-}
 
 }

@@ -3,9 +3,10 @@ body {
 background-color:#7FDBFF ;
 font-family: 'Raleway', sans-serif; 
 }
+.head { 
+background-color: blue;}
 h1{ 
 display:block;
-background-color: blue;
 font-size: 2em;
 margin-top: 0.67em;
 margin-bottom: 0.67em;
@@ -16,7 +17,6 @@ text-align: center;
 }
 h6{
 display:block;
-background-color: blue;
 font-size: 1em;
 font-weight: italic; 
 text-align: center;	

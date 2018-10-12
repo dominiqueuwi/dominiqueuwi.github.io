@@ -21,7 +21,7 @@ font-size: 1em;
 font-weight: italic; 
 text-align: center;	
 }
-.bio {
+#bio {
 	position: relative; 
 	height: auto;
 	width: 400px;
@@ -32,7 +32,7 @@ text-align: center;
 	overflow-x: hidden;
 	padding-top: 20px;
 }
-.sidenav { 
+#sidenav { 
 	position: absolute;
 	height: 100%;
 	width: 160px;

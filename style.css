@@ -1,6 +1,10 @@
 style.css
 .header {  
 text-align: center
+display: flex;
+flex-direction: column;
+border-bottom: 1px solid #F2F2F2;
+padding: 2.3em 0;
 background: aqua;
 background-color: aqua;}
 

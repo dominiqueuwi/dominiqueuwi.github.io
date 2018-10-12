@@ -3,6 +3,7 @@ body {
 background-color:#7FDBFF ;
 font-family: 'Raleway', sans-serif; 
 }
+.body { background-color: yellow; }
 .head { 
 background-color: blue;}
 h1{ 

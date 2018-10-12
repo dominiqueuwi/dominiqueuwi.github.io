@@ -22,17 +22,18 @@ font-weight: italic;
 text-align: center;	
 }
 .bio {
-	 
+	position: absolute; 
 	height: auto;
 	width: 400px;
 	z-index: 1;	
 	top:0;
-	right:0;
+	right:1;
 	background-color: red;
 	overflow-x: hidden;
 	padding-top: 20px;
 }
 .sidenav { 
+	position: relative;
 	height: auto;
 	width: 160px;
 	z-index: 1;	

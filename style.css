@@ -1,5 +1,5 @@
 style.css
-.header {  
+header {  
 text-align: center
 display: flex;
 width:100%;
@@ -7,8 +7,13 @@ flex-direction: column;
 border-bottom: 1px solid #F2F2F2;
 padding: 2.3em 0;
 background: aqua;
-background-color: aqua;}
+background-color: aqua; } 
 
+.flex { 
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	 }
 
 .body { 
 background-color: white; }

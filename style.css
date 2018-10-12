@@ -20,3 +20,6 @@ position: relative;
 background: silver; }
 
 img { border-radius: 50%; }
+
+span { 
+content: "\2709"; }

@@ -23,12 +23,14 @@ text-align: center;
 }
 .bio {
 	 
-	align-items: right;
-	align-content: top;
-	top: 0px;
-	right: 0px;
-	position: relative;
-
+	height: auto;
+	width: 160px;
+	z-index: 1;	
+	top:0;
+	right:0;
+	background-color: red;
+	overflow-x: hidden;
+	padding-top: 20px;
 }
 .sidenav { 
 	height: auto;
@@ -40,13 +42,7 @@ text-align: center;
 	overflow-x: hidden;
 	padding-top: 20px;
 }
-.sidenav a { 
-	padding: 6px 8px 6px 16px;
-	text-decoration: none;
-	font-size: 25px;
-	color: #818181;
-	display: block;
- }
+
 
 
 }

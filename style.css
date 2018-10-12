@@ -1,7 +1,11 @@
 style.css
 .header {  
 text-align: center}
-
+.h1 { text-align: center;
+align-content: center; }
+.h6 { 
+align-content: center;
+text-align: center; }
 
 .body { 
 background-color: white; }
@@ -13,8 +17,8 @@ position: absolute;
 background: red;
 text-align: center;}
 
-.main hr { margin: 20px 0px 20px 0px; padding: 0px; border: 0;
-border-bottom: 4px solid #D3D3D3 }
+.main hr { margin: 10px 0px 20px 0px; padding: 0px; border: 0;
+border-bottom: 2px solid #D3D3D3 }
 
 
 .sidenav { 

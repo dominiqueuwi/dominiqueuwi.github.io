@@ -3,6 +3,10 @@ style.css
 background-color: blue; 
 text-align: center}
 
+h1 { text-align: center;
+color: blue;
+background-color: blue; }
+
 .body { 
 background-color: white; }
 

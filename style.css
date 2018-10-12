@@ -11,7 +11,7 @@ width: 100%;
 height:100%;
 position: absolute;
 background: red;
-text-align: right;}
+text-align: center;}
 
 .main hr { margin: 20px 0px 20px 0px; padding: 0px; border: 0;
 border-bottom: 4px solid #D3D3D3 }

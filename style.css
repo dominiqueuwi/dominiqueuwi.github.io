@@ -13,6 +13,9 @@ position: absolute;
 background: red;
 text-align: center;}
 
+.main hr { margin: 20px 0px 20px 0px; padding: 0px; border: 0;
+border-bottom: 4px solid #D3D3D3 }
+
 .sidenav { 
 width: 17%;
 height: 100%;

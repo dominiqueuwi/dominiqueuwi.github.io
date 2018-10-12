@@ -23,11 +23,11 @@ text-align: center;
 }
 .bio {
 	position: relative; 
-	height: auto;
+	height: 100%;
 	width: 400px;
 	z-index: 1;	
 	top:0;
-	right:1;
+	right:5;
 	background-color: red;
 	overflow-x: hidden;
 	padding-top: 20px;
